@@ -16,7 +16,7 @@ export const Shlokas = () => {
                 method: 'GET',
                 url: 'https://bhagavad-gita3.p.rapidapi.com/v2/chapters/',
                 headers: {
-                    'X-RapidAPI-Key': 'ede96b6ee0msh01977ae033ea98cp120734jsna9da51ef0d12',
+                    'X-RapidAPI-Key': 'apikey',
                     'X-RapidAPI-Host': 'bhagavad-gita3.p.rapidapi.com'
                 }
             };
