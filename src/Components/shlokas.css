@@ -1,0 +1,35 @@
+.main-container{
+    margin: 20px auto;
+    background-color: orange;
+    padding: 10px 10px 10px 10px;
+    border-radius: 18px;
+}
+.chapter-number{
+    background-color: orange;
+    border: 2px solid black;
+}
+.col-3{
+    text-align: center;
+}
+.card-column{
+    margin-bottom: 30px;
+
+  
+    margin-left: 0px;
+}
+.card-body{
+    background-color: rgba(250, 207, 126, 0.932);
+}
+.accord-header{
+    background-color: rgba(250, 207, 126, 0.932);
+}
+.spinner{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.linkedin-link{
+    text-decoration: none;
+    color: black;
+}
